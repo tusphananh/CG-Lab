@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gluegen-rt-natives-windows-amd64">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/JOGL-Windows/Windows/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JOGL-Windows/Windows/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JOGL-Windows/Windows/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JOGL-Windows/Windows/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JOGL-Windows/Windows/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JOGL-Windows/Windows/jogl.all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
